@@ -1,0 +1,10 @@
+{
+  "name": "Daniel Coffee",
+  "social": ["https://github.com/danielscoffee"],
+  "source-code-repo": "https://github.com/danielscoffee/rinha-backend2025-go",
+  "langs": ["go"],
+  "storages": ["redis"],
+  "messaging": [],
+  "load-balancers": ["nginx"],
+  "other-technologies": ["fasthttp", "fastjson", "alpine", "docker"]
+}

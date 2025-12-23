@@ -1,0 +1,3 @@
+# Ignore scripts in JS(Grafana) at linguist
+*.js linguist-vendored
+scripts/* linguist-vendored
